@@ -169,10 +169,11 @@ footer img{
 
   }
   .heading{
-    font-size:10px;
+    font-size:15px;
   }
   .catalogs{
-    font-size:10px;
+    font-size:15px;
+    padding: 0px;
   }
   
   .main-nav li{
